@@ -11,5 +11,15 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^8.1.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Byronwww/FirstProject.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Byronwww/FirstProject/issues"
+  },
+  "homepage": "https://github.com/Byronwww/FirstProject#readme"
 }
