@@ -12,7 +12,9 @@
   "devDependencies": {
     "cypress": "^8.1.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.22.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Byronwww/FirstProject.git"
